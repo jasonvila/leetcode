@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given <i>numRows</i>, generate the first <i>numRows</i> of Pascal\'s triangle.</p>\n<p>\r\nFor example, given <i>numRows</i> = 5,<br/>\r\nReturn\r\n<pre>\r\n[\r\n     [1],\r\n    [1,1],\r\n   [1,2,1],\r\n  [1,3,3,1],\r\n [1,4,6,4,1]\r\n]\r\n</pre>\n</p></p>\n</div>'

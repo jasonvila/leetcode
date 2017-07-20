@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given an array where elements are sorted in ascending order, convert it to a height balanced BST.</p></p>\n</div>'

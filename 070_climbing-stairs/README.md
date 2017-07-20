@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>You are climbing a stair case. It takes <i>n</i> steps to reach to the top.</p>\n<p>Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?\r\n</p>\n<p><b>Note:</b> Given <i>n</i> will be a positive integer.\r\n</p></p>\n</div>'

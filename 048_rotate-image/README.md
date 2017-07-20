@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>You are given an <i>n</i> x <i>n</i> 2D matrix representing an image.</p>\n<p>Rotate the image by 90 degrees (clockwise).</p>\n<p>Follow up:<br/>\r\nCould you do this in-place?</p></p>\n</div>'

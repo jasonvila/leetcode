@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nFind the contiguous subarray within an array (containing at least one number) which has the largest product.\r\n</p>\n<p>\r\nFor example, given the array <code>[2,3,-2,4]</code>,<br/>\r\nthe contiguous subarray <code>[2,3]</code> has the largest product = <code>6</code>.\r\n</p></p>\n</div>'

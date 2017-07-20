@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nGiven two integers <i>n</i> and <i>k</i>, return all possible combinations of <i>k</i> numbers out of 1 ... <i>n</i>.\r\n</p>\n<p>\r\nFor example,<br/>\r\nIf <i>n</i> = 4 and <i>k</i> = 2, a solution is:\r\n</p>\n<pre>\r\n[\r\n  [2,4],\r\n  [3,4],\r\n  [2,3],\r\n  [1,2],\r\n  [1,3],\r\n  [1,4],\r\n]\r\n</pre></p>\n</div>'

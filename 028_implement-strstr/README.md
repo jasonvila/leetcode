@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nImplement strStr().\r\n</p>\n<p>\r\nReturns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.\r\n</p></p>\n</div>'

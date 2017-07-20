@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given a binary tree, find its minimum depth.</p>\n<p>The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.</p></p>\n</div>'

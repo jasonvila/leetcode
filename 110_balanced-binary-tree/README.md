@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given a binary tree, determine if it is height-balanced.\r\n</p>\n<p>\r\nFor this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of <i>every</i> node never differ by more than 1.\r\n</p></p>\n</div>'

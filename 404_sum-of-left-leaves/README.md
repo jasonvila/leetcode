@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Find the sum of all left leaves in a given binary tree.</p>\n<p><b>Example:</b>\n<pre>\r\n    3\r\n   / \\\r\n  9  20\r\n    /  \\\r\n   15   7\r\n\r\nThere are two left leaves in the binary tree, with values <b>9</b> and <b>15</b> respectively. Return <b>24</b>.\r\n</pre>\n</p></p>\n</div>'

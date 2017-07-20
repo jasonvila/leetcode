@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.</p>\n<p>\r\nFor example:<br/> \r\nGiven n = 13,<br/>\r\nReturn 6, because digit 1 occurred in the following numbers: 1, 10, 11, 12, 13.\r\n</p></p>\n</div>'

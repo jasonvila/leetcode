@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given a list, rotate the list to the right by <i>k</i> places, where <i>k</i> is non-negative.</p>\n<p>For example:<br/>\r\nGiven <code>1-&gt;2-&gt;3-&gt;4-&gt;5-&gt;NULL</code> and <i>k</i> = <code>2</code>,<br/>\r\nreturn <code>4-&gt;5-&gt;1-&gt;2-&gt;3-&gt;NULL</code>.</p></p>\n</div>'

@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nGiven an integer, write a function to determine if it is a power of two.\r\n</p>\n<p><b>Credits:</b><br/>Special thanks to <a href="https://leetcode.com/discuss/user/jianchao.li.fighter">@jianchao.li.fighter</a> for adding this problem and creating all test cases.</p></p>\n</div>'

@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given an index <i>k</i>, return the <i>k</i><sup>th</sup> row of the Pascal\'s triangle.</p>\n<p>\r\nFor example, given <i>k</i> = 3,<br/>\r\nReturn <code>[1,3,3,1]</code>.\r\n</p>\n<p>\n<b>Note:</b><br/>\r\nCould you optimize your algorithm to use only <i>O</i>(<i>k</i>) extra space?\r\n</p></p>\n</div>'

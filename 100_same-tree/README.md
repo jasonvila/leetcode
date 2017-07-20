@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nGiven two binary trees, write a function to check if they are equal or not.\r\n</p>\n<p>Two binary trees are considered equal if they are structurally identical and the nodes have the same value.\r\n</p></p>\n</div>'

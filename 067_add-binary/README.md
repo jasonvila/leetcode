@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nGiven two binary strings, return their sum (also a binary string).\r\n</p>\n<p>\r\nFor example,<br/>\r\na = <code>"11"</code><br/>\r\nb = <code>"1"</code><br/>\r\nReturn <code>"100"</code>.\r\n</p></p>\n</div>'

@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Write a function to find the longest common prefix string amongst an array of strings.\r\n</p></p>\n</div>'

@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given an integer <i>n</i>, return the number of trailing zeroes in <i>n</i>!.</p>\n<p><b>Note: </b>Your solution should be in logarithmic time complexity.</p>\n<p><b>Credits:</b><br/>Special thanks to <a href="https://oj.leetcode.com/discuss/user/ts">@ts</a> for adding this problem and creating all test cases.</p></p>\n</div>'

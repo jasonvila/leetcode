@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>\n<p>Now your job is to find the total Hamming distance between all pairs of the given numbers.</p></p></div>'

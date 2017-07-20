@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nGiven a sorted linked list, delete all duplicates such that each element appear only <i>once</i>.\r\n</p>\n<p>\r\nFor example,<br/>\r\nGiven <code>1-&gt;1-&gt;2</code>, return <code>1-&gt;2</code>.<br/>\r\nGiven <code>1-&gt;1-&gt;2-&gt;3-&gt;3</code>, return <code>1-&gt;2-&gt;3</code>.\r\n</p></p>\n</div>'

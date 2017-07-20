@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Reverse a singly linked list.</p>\n<p class="showspoilers"><a href="#" onclick="showSpoilers(this); return false;">click to show more hints.</a></p>\n<div class="spoilers"><b>Hint:</b>\n<p>A linked list can be reversed either iteratively or recursively. Could you implement both?</p>\n</div></p>\n</div>'

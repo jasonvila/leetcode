@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Write a function that takes a string as input and returns the string reversed.</p>\n<p>\n<b>Example:</b><br/>\r\nGiven s = "hello", return "olleh".\r\n</p></p>\n</div>'

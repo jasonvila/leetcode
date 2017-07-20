@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\r\nTwo elements of a binary search tree (BST) are swapped by mistake.</p>\n<p>Recover the tree without changing its structure.\r\n</p>\n<b>Note:</b><br/>\r\nA solution using O(<i>n</i>) space is pretty straight forward. Could you devise a constant space solution?\r\n</p></div>'

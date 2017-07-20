@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Follow up for N-Queens problem.</p>\n<p>Now, instead outputting board configurations, return the total number of distinct solutions.</p>\n<p><img src="https://leetcode.com/static/images/problemset/8-queens.png"/></p></p>\n</div>'

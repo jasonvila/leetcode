@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>\n<b>Follow up</b> for <a href="/problems/h-index/" target="_blank">H-Index</a>: What if the <code>citations</code> array is sorted in ascending order? Could you optimize your algorithm?\r\n</p></p>\n</div>'

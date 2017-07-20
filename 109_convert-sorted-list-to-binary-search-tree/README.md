@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.</p></p>\n</div>'

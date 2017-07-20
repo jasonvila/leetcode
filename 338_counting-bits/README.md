@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given a non negative integer number <b>num</b>. For every numbers <b>i</b> in the range <b>0 \xe2\x89\xa4 i \xe2\x89\xa4 num</b> calculate the number of 1\'s in their binary representation and return them as an array.\r\n</p>\n<p>\n<b>Example:</b></p></p></div>'

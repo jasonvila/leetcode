@@ -1,0 +1,1 @@
+b'<div class="question-description">\n<p><p>Given an integer, return its base 7 string representation.</p>\n<p><b>Example 1:</b><br/>\n<pre>\r\n<b>Input:</b> 100\r\n<b>Output:</b> "202"\r\n</pre>\n</p>\n<p><b>Example 2:</b><br/>\n<pre>\r\n<b>Input:</b> -7\r\n<b>Output:</b> "-10"\r\n</pre>\n</p>\n<p><b>Note:</b>\r\nThe input will be in range of [-1e7, 1e7].\r\n</p></p>\n</div>'
